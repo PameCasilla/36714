@@ -5,7 +5,7 @@ segun 'x' hacer {
     caso 'y':
         imprimir('Otro');
     defecto:
-        imprimir('defecto');
+        imprimir('Defecto');
         salir;
 } finsegun
 
