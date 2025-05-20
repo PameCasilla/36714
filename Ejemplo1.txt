@@ -1,0 +1,13 @@
+Exito_1:
+segun 'x' hacer {
+    caso 'x':
+        imprimir('Hola');
+    caso 'y':
+        imprimir('Otro');
+    defecto:
+        imprimir('defecto');
+        salir;
+} finsegun
+
+
+
