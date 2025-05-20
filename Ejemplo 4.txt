@@ -1,0 +1,7 @@
+
+Entrada inválida_2:
+según estado hacer {
+    caso activo:
+        imprimir('activo');
+}
+finsegún

@@ -1,0 +1,6 @@
+Entrada inválida_1:
+segun 'estado' {
+    caso 'activo':
+        imprimir('Act')  // Falta ';' y 'hacer'
+}
+finsegún

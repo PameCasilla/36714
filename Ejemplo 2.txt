@@ -1,0 +1,12 @@
+
+Exito_2
+segun 'estado' hacer {
+    caso 'activo':
+        imprimir('¡El estado es activo!');
+    caso 'inactivo':
+        imprimir('El estado es inactivo');
+    defecto:
+        imprimir('Estado desconocido');
+}
+finsegun
+
